@@ -1,3 +1,27 @@
 body {
-    background-color: darkgreen;
+    background-color: olive;
+}
+
+h1 {
+    color: lavenderblush;
+}
+
+h3 {
+    color: khaki;
+}
+
+h2 {
+    color: moccasin;
+}
+
+#articleOne {
+    font-family: 'Lucida Sans';
+}
+
+#articleTwo {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#articleThree {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
